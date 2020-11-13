@@ -2,9 +2,9 @@
 
 Building My Personal Resume Website
 
-### Todo
+### To-Do
 
-- [ ] Like your creation? Save it!  
+- [ ] Like your creation? Save it!
 - [ ] Have wrong links redirect to dinosaur jump game  
 
 ### In Progress
@@ -13,5 +13,5 @@ Building My Personal Resume Website
 
 ### Done ✓
 
-- [x] Create Framework  
+- [ ] Create Framework
 
