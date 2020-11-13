@@ -9,8 +9,9 @@ Building My Personal Resume Website
 
 ### In Progress
 
+- [ ] Change Section For Education  
 
 ### Done ✓
 
-- [x] Designed my rocket  
+- [x] Create Framework  
 
