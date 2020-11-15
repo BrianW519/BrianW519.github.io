@@ -1,17 +1,13 @@
 # Website Project
 
-Building My Personal Resume Website
+## To-Do
 
-### To-Do
+  [ ] Have wrong links ***redirect** to dinosaur jump game
 
-- [ ] Like your creation? Save it!
-- [ ] Have wrong links redirect to dinosaur jump game  
+## In Progress
 
-### In Progress
+  [ ] Change Section For Education
 
-- [ ] Change Section For Education  
+## Done ✓
 
-### Done ✓
-
-- [ ] Create Framework
-
+  [ ] Create Framework
